@@ -1,23 +1,28 @@
 # ios-fitness-app-architecture
 
-## Overview
-A sample production-style fitness app built with SwiftUI and Clean Architecture.
+Architecture and design reference for a production-style fitness platform built with Swift, SwiftUI, MVVM, and Clean Architecture. Source implementation is being sanitized due to NDA restrictions.
 
-## Architecture
-- Presentation Layer
-- Domain Layer
-- Data Layer
-- 
-## Tech Stack
+## Status
+This repository is currently under active development.
 
-- SwiftUI
-- MVVM
-- Async/Await
-- Repository Pattern
-- Dependency Injection
+## Note on Source Code Availability
+The original implementation contains proprietary business logic and client-specific code protected under confidentiality agreements (NDA). As a result, the full production source code cannot be publicly shared.
 
-## Key Design Decisions
+A sanitized architecture showcase is being prepared to demonstrate:
 
-- Testable architecture
-- Modular components
-- Scalable state management
+- Clean Architecture layering
+- MVVM feature organization
+- Dependency injection
+- Repository pattern
+- Service abstractions
+- Modular SwiftUI components
+- Scalable navigation and state management
+
+## Planned Features
+- Authentication flows
+- Workout tracking
+- Subscription management
+- Progress analytics
+- Dashboard visualization
+
+This repository will be updated with non-proprietary architecture examples and reference implementations.
