@@ -1,4 +1,4 @@
-# ios-fitness-app-architecture
+# iOS Fitness App Architecture
 
 Architecture and design reference for a production-style fitness platform built with Swift, SwiftUI, MVVM, and Clean Architecture. Source implementation is being sanitized due to NDA restrictions.
 
